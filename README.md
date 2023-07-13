@@ -13,4 +13,4 @@ Accuracy Calculation: The application compares the user's typed text with the or
 
 Words per Minute (WPM) Calculation: The application calculates the user's typing speed in words per minute. It uses the total time taken to type the text and the average length of words in the text to calculate the WPM score.
 
-Results Display: Once the user completes the typing exercise, the application provides a summary of the results. This includes the time taken, accuracy percentage, and WPM score. Additionally, it may provide feedback and suggestions for improvement.
+Results Display: Once the user completes the typing exercise, the application provides a summary of the results. This includes the time taken, accuracy percentage, and WPM score.
